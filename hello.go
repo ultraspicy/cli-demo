@@ -1,4 +1,4 @@
-package hello
+package cli_demo
 
 import (
 	//"rsc.io/quote"

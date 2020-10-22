@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="5f1b3912-34e5-4300-b156-c704ed5a62e3" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/world/world.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/world/world_test.go" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Go File" />
+      </list>
+    </option>
+  </component>
+  <component name="GOROOT" path="/usr/local/go" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1jCiz3p0DeS4SGopm5REtZqpViG" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultGoTemplateProperty" value="Go File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="ask.go.tool.to.install.GoImportsTaskConsumer" value="true" />
+    <property name="go.import.settings.migrated" value="true" />
+    <property name="go.sdk.automatically.set" value="true" />
+    <property name="go.tried.to.enable.integration.vgo.integrator" value="true" />
+    <property name="last_opened_file_path" value="$USER_HOME$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="watcher.settings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/hello" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Go Test.TestProverb in ultraspicy/hello">
+    <configuration name="TestHello in cli-demo/hello" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+      <module name="cli-demo" />
+      <working_directory value="$PROJECT_DIR$/hello" />
+      <framework value="gotest" />
+      <kind value="PACKAGE" />
+      <package value="cli-demo/hello" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$" />
+      <pattern value="^\QTestHello\E$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="TestProverb in ultraspicy/hello" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+      <module name="cli-demo" />
+      <working_directory value="$PROJECT_DIR$/hello" />
+      <framework value="gotest" />
+      <kind value="PACKAGE" />
+      <package value="ultraspicy/hello" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$" />
+      <pattern value="^\QTestProverb\E$" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Go Test.TestProverb in ultraspicy/hello" />
+        <item itemvalue="Go Test.TestHello in cli-demo/hello" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VgoProject">
+    <integration-enabled>true</integration-enabled>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="424" y="214" key="#Go_Modules" timestamp="1603315999618">
+      <screen x="68" y="23" width="1212" height="777" />
+    </state>
+    <state x="424" y="214" key="#Go_Modules/68.23.1212.777@68.23.1212.777" timestamp="1603315999618" />
+    <state x="263" y="148" key="EditFileWatcherDialog" timestamp="1603315233881">
+      <screen x="68" y="23" width="1212" height="777" />
+    </state>
+    <state x="263" y="148" key="EditFileWatcherDialog/68.23.1212.777@68.23.1212.777" timestamp="1603315233881" />
+    <state width="1160" height="184" key="GridCell.Tab.0.bottom" timestamp="1603327440211">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state width="1160" height="184" key="GridCell.Tab.0.bottom/0.0.1280.800@0.0.1280.800" timestamp="1603327440211" />
+    <state width="1160" height="184" key="GridCell.Tab.0.bottom/68.23.1212.777@68.23.1212.777" timestamp="1603321819397" />
+    <state width="1160" height="184" key="GridCell.Tab.0.center" timestamp="1603327440209">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state width="1160" height="184" key="GridCell.Tab.0.center/0.0.1280.800@0.0.1280.800" timestamp="1603327440209" />
+    <state width="1160" height="184" key="GridCell.Tab.0.center/68.23.1212.777@68.23.1212.777" timestamp="1603321819396" />
+    <state width="1160" height="184" key="GridCell.Tab.0.left" timestamp="1603327440208">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state width="1160" height="184" key="GridCell.Tab.0.left/0.0.1280.800@0.0.1280.800" timestamp="1603327440208" />
+    <state width="1160" height="184" key="GridCell.Tab.0.left/68.23.1212.777@68.23.1212.777" timestamp="1603321819396" />
+    <state width="1160" height="184" key="GridCell.Tab.0.right" timestamp="1603327440210">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state width="1160" height="184" key="GridCell.Tab.0.right/0.0.1280.800@0.0.1280.800" timestamp="1603327440210" />
+    <state width="1160" height="184" key="GridCell.Tab.0.right/68.23.1212.777@68.23.1212.777" timestamp="1603321819396" />
+    <state x="68" y="23" key="SettingsEditor" timestamp="1603315235973">
+      <screen x="68" y="23" width="1212" height="777" />
+    </state>
+    <state x="68" y="23" key="SettingsEditor/68.23.1212.777@68.23.1212.777" timestamp="1603315235973" />
+    <state x="355" y="275" key="git4idea.remote.GitConfigureRemotesDialog" timestamp="1603323128627">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state x="355" y="275" key="git4idea.remote.GitConfigureRemotesDialog/0.0.1280.800@0.0.1280.800" timestamp="1603323128627" />
+  </component>
+</project>
